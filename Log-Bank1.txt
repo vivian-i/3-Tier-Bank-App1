@@ -1,0 +1,7 @@
+2024/06/17 15:56:02 [INFO] Get() - GetNumEntries is successfuly called. Database entry contains 101769 items.
+2024/06/17 15:56:09 [INFO] Get() - GetValuesForEntry is successfuly called. Index 2 has an account number of 913195748 which is Charlie Johnson's.
+2024/06/17 15:56:19 [INFO] Post() - GetMatchingLastName is successfuly called. Last name Smith has an account number of 314680895 which is Kathleen Smith's.
+2024/06/17 16:00:12 [INFO] Get() - GetNumEntries is successfuly called. Database entry contains 100135 items.
+2024/06/17 16:00:27 [ERROR] Get() - GetValuesForEntry is NOT successfuly called. Index 2000000 is out of range. Http response exception is thrown.
+2024/06/17 16:00:46 [INFO] Get() - GetNumEntries is successfuly called. Database entry contains 102650 items.
+2024/06/17 16:00:54 [INFO] Get() - GetValuesForEntry is successfuly called. Index 8732 has an account number of 670539613 which is Kathleen Wilson's.

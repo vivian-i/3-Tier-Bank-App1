@@ -1,0 +1,42 @@
+﻿<Window x:Class="ClientWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Name = "ss"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="User Input" Background="AliceBlue" BorderBrush="AntiqueWhite" BorderThickness="3" FontWeight="Bold" HorizontalAlignment="Left" Margin="30,9,0,0" VerticalAlignment="Top" Height="268" Width="340"/>
+        <Label Content="Result Output" Background="AliceBlue" BorderBrush="AntiqueWhite" BorderThickness="3" FontWeight="Bold" HorizontalAlignment="Left" Margin="421,9,0,0" VerticalAlignment="Top" Height="400" Width="340"/>
+
+        <Label Content="First Name: " HorizontalAlignment="Left" Margin="443,62,0,0" VerticalAlignment="Top"/>
+        <Label Content="Last Name: " HorizontalAlignment="Left" Margin="443,113,0,0" VerticalAlignment="Top"/>
+        <Label Content="Account No: " HorizontalAlignment="Left" Margin="443,172,0,0" VerticalAlignment="Top"/>
+        <Label Content="Balance: " HorizontalAlignment="Left" Margin="443,229,0,0" VerticalAlignment="Top"/>
+        <Label Content="Pin: " HorizontalAlignment="Left" Margin="443,284,0,0" VerticalAlignment="Top"/>
+        <Label Content="Profile Picture: " HorizontalAlignment="Left" Margin="443,342,0,0" VerticalAlignment="Top"/>
+        <Label Content="Input Index: " HorizontalAlignment="Left" Margin="65,57,0,0" VerticalAlignment="Top"/>
+        <Label Content="Input Last Name:" HorizontalAlignment="Left" Margin="40,99,0,0" VerticalAlignment="Top"/>
+        <Label Content="Total Items:" HorizontalAlignment="Left" Margin="39,290,0,0" VerticalAlignment="Top"/>
+
+        <TextBox Name="TotalItemBox" IsReadOnly="true" HorizontalAlignment="Left" Height="25" Margin="116,291,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <TextBox Name="FNameBox" IsReadOnly="true" HorizontalAlignment="Left" Height="25" Margin="517,64,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBox Name="LNameBox" IsReadOnly="true" HorizontalAlignment="Left" Height="25" Margin="517,113,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBox Name="AcctNoBox" IsReadOnly="true" HorizontalAlignment="Left" Height="25" Margin="517,172,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBox Name="BalanceBox" IsReadOnly="true" HorizontalAlignment="Left" Height="25" Margin="517,228,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <TextBox Name="PinBox" IsReadOnly="true" HorizontalAlignment="Left" Height="25" Margin="517,283,0,0" TextWrapping="NoWrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <Rectangle HorizontalAlignment="Left" Height="75.2" Margin="563,319,0,0" Stroke="Black" VerticalAlignment="Top" Width="76"/>
+        <Image Name="ProfilePicImg" HorizontalAlignment="Left" Height="74" VerticalAlignment="Top" Width="100" RenderTransformOrigin="-0.897,-0.662" Margin="564,319,0,0"/>
+
+        <TextBox Name="IndexBox" HorizontalAlignment="Left" Height="25" Margin="140,61,0,0" TextWrapping="NoWrap" VerticalAlignment="Top" Width="120"/>
+        <Button Name="GoBtn" Content="Search!" HorizontalAlignment="Left" Margin="281,62,0,0" VerticalAlignment="Top" Width="68" Click="GoBtn_Click"/>
+        <TextBox Name="InputLName" HorizontalAlignment="Left" Height="25" Margin="140,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Name="SearchBtn" Content="Search!" HorizontalAlignment="Left" Margin="281,101,0,0" VerticalAlignment="Top" Width="68" Click="SearchBtn_Click"/>
+
+        <Label Content="Progress: " Background="Lavender"  BorderBrush="FloralWhite" BorderThickness="1" HorizontalAlignment="Left" Margin="63,172,0,0" VerticalAlignment="Top" Height="68" Width="284"/>
+        <ProgressBar Name="AsyncProgressBar" Minimum="0" Maximum="100" HorizontalAlignment="Left" Height="18" Margin="99,202,0,0" VerticalAlignment="Top" Width="207" IsIndeterminate="True"/>
+
+    </Grid>
+</Window>

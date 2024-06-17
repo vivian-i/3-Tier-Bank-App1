@@ -1,0 +1,86 @@
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\ClientWpfApp.exe.config
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\ClientWpfApp.exe
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\ClientWpfApp.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp_MarkupCompile.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp_MarkupCompile.lref
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.g.resources
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.Properties.Resources.resources
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.csproj.GenerateResource.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.exe
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\obj\Debug\ClientWpfApp.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\RestSharp.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\RestSharp.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\APIClasses.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Razor.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Razor.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Http.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Http.xml
+C:\Users\Vi\source\repos\Super Awesome Library Project\WpfApp1\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\ClientWpfApp.exe.config
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\ClientWpfApp.exe
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\ClientWpfApp.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\RestSharp.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Http.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Razor.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\APIClasses.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\RestSharp.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Http.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.Razor.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.csproj.AssemblyReference.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp_MarkupCompile.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp_MarkupCompile.lref
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.g.resources
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.Properties.Resources.resources
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.csproj.GenerateResource.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.exe
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\WpfApp1\obj\Debug\ClientWpfApp.pdb

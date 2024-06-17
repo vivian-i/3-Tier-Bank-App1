@@ -1,0 +1,12 @@
+C:\Users\Vi\source\repos\Super Awesome Library Project\DBInterface\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\DBInterface\obj\Debug\DBInterface.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\DBInterface\obj\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\DBInterface\obj\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\DBInterface\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\DBInterface\obj\Debug\DBInterface.csproj.AssemblyReference.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\DBInterface\obj\Debug\DBInterface.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\DBInterface\obj\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\DBInterface\obj\Debug\DBInterface.pdb

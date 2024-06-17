@@ -1,0 +1,6 @@
+C:\Users\Vi\source\repos\Super Awesome Library Project\Super Awesome Library Project\obj\Debug\SuperAwesomeLibraryProject.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\Super Awesome Library Project\obj\Debug\SuperAwesomeLibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\Super Awesome Library Project\bin\Debug\SuperAwesomeLibraryProject.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\Super Awesome Library Project\bin\Debug\SuperAwesomeLibraryProject.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\Super Awesome Library Project\obj\Debug\SuperAwesomeLibraryProject.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\Super Awesome Library Project\obj\Debug\SuperAwesomeLibraryProject.pdb

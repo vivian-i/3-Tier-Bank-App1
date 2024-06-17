@@ -1,0 +1,25 @@
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\BusinessServerConsoleApp.exe.config
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\BusinessServerConsoleApp.exe
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\BusinessServerConsoleApp.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.exe
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\log4net.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp2\bin\Debug\log4net.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\BusinessServerConsoleApp.exe.config
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\BusinessServerConsoleApp.exe
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\BusinessServerConsoleApp.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\log4net.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\bin\Debug\log4net.xml
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.exe
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp2\obj\Debug\BusinessServerConsoleApp.pdb

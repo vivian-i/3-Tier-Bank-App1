@@ -1,0 +1,12 @@
+C:\Users\Vi\source\repos\Super Awesome Library Project\APIClasses\bin\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\APIClasses\bin\Debug\APIClasses.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\APIClasses\obj\Debug\APIClasses.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\APIClasses\obj\Debug\APIClasses.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\APIClasses\obj\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\APIClasses\obj\Debug\APIClasses.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\APIClasses\bin\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\APIClasses\bin\Debug\APIClasses.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\APIClasses\obj\Debug\APIClasses.csproj.AssemblyReference.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\APIClasses\obj\Debug\APIClasses.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\APIClasses\obj\Debug\APIClasses.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\APIClasses\obj\Debug\APIClasses.pdb

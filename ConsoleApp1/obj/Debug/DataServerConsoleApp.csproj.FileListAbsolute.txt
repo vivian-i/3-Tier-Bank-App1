@@ -1,0 +1,24 @@
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DataServerConsoleApp.exe.config
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DataServerConsoleApp.exe
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DataServerConsoleApp.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DBLibrary.dll
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\bin\Debug\DBLibrary.pdb
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\obj\Debug\DataServerConsoleApp.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\obj\Debug\DataServerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\obj\Debug\DataServerConsoleApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\obj\Debug\DataServerConsoleApp.exe
+C:\Users\Vi\source\repos\Super Awesome Library Project\ConsoleApp1\obj\Debug\DataServerConsoleApp.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DataServerConsoleApp.exe.config
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DataServerConsoleApp.exe
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DataServerConsoleApp.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DBInterface.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DBLibrary.dll
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DBInterface.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\bin\Debug\DBLibrary.pdb
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\obj\Debug\DataServerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\obj\Debug\DataServerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\obj\Debug\DataServerConsoleApp.csproj.CopyComplete
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\obj\Debug\DataServerConsoleApp.exe
+C:\Users\Vi\source\repos\Three-Tier-Bank-Application-1\ConsoleApp1\obj\Debug\DataServerConsoleApp.pdb
